@@ -3,4 +3,4 @@ Chatbot or bot – is a computer program that simulates a natural human conversa
 # This repository inspired by Jayed Ahsan Saad.
 
 # Screenshot >>>
-![alt text](https://github.com/AhsanParadise/Chat-Bot/blob/master/ScreenShot.jpg?raw=true)
+![alt text](https://github.com/AhsanParadise/Chat-Bot/blob/master/ScreenShot.png?raw=true)
