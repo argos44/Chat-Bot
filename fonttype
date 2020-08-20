@@ -1,0 +1,32 @@
+int youtube = 5;
+int portik_bebukottak = 1997;
+boolean stop = false;
+
+fonttype = italic
+/*font in french is police*/
+
+class common_denominator
+
+class type: private, abstract, volatile
+
+common_denominator.cagefight
+common_denominator.roosterfight
+common_denominator.bullrun
+common_denominator.manhunt
+
+class circular
+circular.leg
+circular.hand
+
+class straight
+straight.punch
+straight.kick
+
+subclass hunter
+hunter.female
+hunter.male
+
+hunter.female = circular.leg
+hunter.female = straight.sweep
+
+public class hunter.male > hunter.female
